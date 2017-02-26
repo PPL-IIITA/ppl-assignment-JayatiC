@@ -11,4 +11,4 @@ Build mechanism : (running through CMD)
 2)compile the project using the line : "javac Boys.java Girls.java execute.java generate.java Global.java Valentine.java Gift.java" 
 3)run the project using : "java valentine.execute"
  
-For documentation use index.html
+For documentation use doc/index.html
