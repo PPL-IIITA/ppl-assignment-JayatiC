@@ -1,0 +1,492 @@
+creating a fle 
+Enetr the no. of girls
+generating boys
+generating girls
+ALL COMMITTMENTS!
+the boy   1   committed to girl  31
+the boy   2   committed to girl  30
+the boy   3   committed to girl  29
+the boy   4   committed to girl  32
+the boy   5   committed to girl  33
+the boy   6   committed to girl  34
+the boy   7   committed to girl  36
+the boy   8   committed to girl  42
+the boy   9   committed to girl  37
+the boy   10   committed to girl  35
+the boy   13   committed to girl  40
+the boy   14   committed to girl  48
+the boy   15   committed to girl  41
+the boy   17   committed to girl  44
+the boy   20   committed to girl  50
+the boy   22   committed to girl  39
+the boy   26   committed to girl  45
+the boy   27   committed to girl  51
+the boy   28   committed to girl  49
+COUPLE HAPPINESS!!!
+    ID  15  committed to    41    happiness   2.224085439897633E214
+    ID  3  committed to    29    happiness   2.9781651707669508E140
+    ID  26  committed to    45    happiness   1.3446145592716225E117
+    ID  1  committed to    31    happiness   1.2844757877285248E54
+    ID  4  committed to    32    happiness   50.09090909090909
+    ID  22  committed to    39    happiness   35.0
+    ID  8  committed to    42    happiness   24.46938775510204
+    ID  14  committed to    48    happiness   23.535714285714285
+    ID  20  committed to    50    happiness   13.758620689655173
+    ID  27  committed to    51    happiness   12.136363636363637
+    ID  13  committed to    40    happiness   8.5625
+    ID  7  committed to    36    happiness   8.0
+    ID  2  committed to    30    happiness   4.512820512820513
+    ID  6  committed to    34    happiness   4.349503442968322
+    ID  5  committed to    33    happiness   3.750282156334212
+    ID  17  committed to    44    happiness   3.7333333333333334
+    ID  28  committed to    49    happiness   3.5555555555555554
+    ID  10  committed to    35    happiness   3.2941176470588234
+    ID  9  committed to    37    happiness   1.9145975112030644
+    ID  11  committed to    0    happiness   0.0
+    ID  12  committed to    0    happiness   0.0
+    ID  16  committed to    0    happiness   0.0
+    ID  18  committed to    0    happiness   0.0
+    ID  19  committed to    0    happiness   0.0
+    ID  21  committed to    0    happiness   0.0
+    ID  23  committed to    0    happiness   0.0
+    ID  24  committed to    0    happiness   0.0
+    ID  25  committed to    0    happiness   0.0
+COUPLE COMPATIBILITY!!!
+  ID  5   committed to   33  compatibility   82
+  ID  6   committed to   34  compatibility   50
+  ID  7   committed to   36  compatibility   45
+  ID  4   committed to   32  compatibility   37
+  ID  22   committed to   39  compatibility   37
+  ID  9   committed to   37  compatibility   36
+  ID  8   committed to   42  compatibility   34
+  ID  20   committed to   50  compatibility   32
+  ID  3   committed to   29  compatibility   27
+  ID  2   committed to   30  compatibility   25
+  ID  15   committed to   41  compatibility   25
+  ID  14   committed to   48  compatibility   23
+  ID  26   committed to   45  compatibility   23
+  ID  28   committed to   49  compatibility   21
+  ID  17   committed to   44  compatibility   16
+  ID  27   committed to   51  compatibility   16
+  ID  13   committed to   40  compatibility   15
+  ID  10   committed to   35  compatibility   13
+  ID  1   committed to   31  compatibility   7
+  ID  11   committed to   0  compatibility   0
+  ID  12   committed to   0  compatibility   0
+  ID  16   committed to   0  compatibility   0
+  ID  18   committed to   0  compatibility   0
+  ID  19   committed to   0  compatibility   0
+  ID  21   committed to   0  compatibility   0
+  ID  23   committed to   0  compatibility   0
+  ID  24   committed to   0  compatibility   0
+  ID  25   committed to   0  compatibility   0
+GIFT EXCHANGES 
+The gifts given by    1   are of value     37    gifted to   31
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   1   and price is    1
+Gift type is   2   and price is    2
+Gift type is   3   and price is    2
+Gift type is   1   and price is    2
+Gift type is   2   and price is    2
+Gift type is   1   and price is    2
+Gift type is   1   and price is    3
+Gift type is   3   and price is    3
+Gift type is   2   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    3
+The gifts given by    2   are of value     60    gifted to   30
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   3   and price is    20
+Gift type is   1   and price is    20
+Gift type is   3   and price is    20
+The gifts given by    3   are of value     79    gifted to   29
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   1   and price is    1
+Gift type is   2   and price is    2
+Gift type is   3   and price is    2
+Gift type is   1   and price is    2
+Gift type is   2   and price is    2
+Gift type is   1   and price is    2
+Gift type is   1   and price is    3
+Gift type is   3   and price is    3
+Gift type is   2   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    4
+Gift type is   2   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   2   and price is    5
+Gift type is   1   and price is    5
+Gift type is   2   and price is    6
+Gift type is   3   and price is    6
+The gifts given by    4   are of value     37    gifted to   32
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   1   and price is    1
+Gift type is   2   and price is    2
+Gift type is   3   and price is    2
+Gift type is   1   and price is    2
+Gift type is   2   and price is    2
+Gift type is   1   and price is    2
+Gift type is   1   and price is    3
+Gift type is   3   and price is    3
+Gift type is   2   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    3
+The gifts given by    5   are of value     100    gifted to   33
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   3   and price is    20
+Gift type is   1   and price is    20
+Gift type is   3   and price is    20
+Gift type is   1   and price is    20
+Gift type is   1   and price is    20
+The gifts given by    6   are of value     60    gifted to   34
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   3   and price is    20
+Gift type is   1   and price is    20
+Gift type is   3   and price is    20
+The gifts given by    7   are of value     60    gifted to   36
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   3   and price is    20
+Gift type is   1   and price is    20
+Gift type is   3   and price is    20
+The gifts given by    8   are of value     73    gifted to   42
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   1   and price is    1
+Gift type is   2   and price is    2
+Gift type is   3   and price is    2
+Gift type is   1   and price is    2
+Gift type is   2   and price is    2
+Gift type is   1   and price is    2
+Gift type is   1   and price is    3
+Gift type is   3   and price is    3
+Gift type is   2   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    4
+Gift type is   2   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   2   and price is    5
+Gift type is   1   and price is    5
+Gift type is   2   and price is    6
+The gifts given by    9   are of value     80    gifted to   37
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   3   and price is    20
+Gift type is   1   and price is    20
+Gift type is   3   and price is    20
+Gift type is   1   and price is    20
+The gifts given by    10   are of value     80    gifted to   35
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   3   and price is    20
+Gift type is   1   and price is    20
+Gift type is   3   and price is    20
+Gift type is   1   and price is    20
+The gifts given by    13   are of value     67    gifted to   40
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   1   and price is    1
+Gift type is   2   and price is    2
+Gift type is   3   and price is    2
+Gift type is   1   and price is    2
+Gift type is   2   and price is    2
+Gift type is   1   and price is    2
+Gift type is   1   and price is    3
+Gift type is   3   and price is    3
+Gift type is   2   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    4
+Gift type is   2   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   2   and price is    5
+Gift type is   1   and price is    5
+The gifts given by    14   are of value     73    gifted to   48
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   1   and price is    1
+Gift type is   2   and price is    2
+Gift type is   3   and price is    2
+Gift type is   1   and price is    2
+Gift type is   2   and price is    2
+Gift type is   1   and price is    2
+Gift type is   1   and price is    3
+Gift type is   3   and price is    3
+Gift type is   2   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    4
+Gift type is   2   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   2   and price is    5
+Gift type is   1   and price is    5
+Gift type is   2   and price is    6
+The gifts given by    15   are of value     112    gifted to   41
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   1   and price is    1
+Gift type is   2   and price is    2
+Gift type is   3   and price is    2
+Gift type is   1   and price is    2
+Gift type is   2   and price is    2
+Gift type is   1   and price is    2
+Gift type is   1   and price is    3
+Gift type is   3   and price is    3
+Gift type is   2   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    4
+Gift type is   2   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   2   and price is    5
+Gift type is   1   and price is    5
+Gift type is   2   and price is    6
+Gift type is   3   and price is    6
+Gift type is   1   and price is    6
+Gift type is   2   and price is    6
+Gift type is   1   and price is    7
+Gift type is   2   and price is    7
+Gift type is   3   and price is    7
+The gifts given by    17   are of value     80    gifted to   44
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   3   and price is    20
+Gift type is   1   and price is    20
+Gift type is   3   and price is    20
+Gift type is   1   and price is    20
+The gifts given by    20   are of value     98    gifted to   50
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   1   and price is    1
+Gift type is   2   and price is    2
+Gift type is   3   and price is    2
+Gift type is   1   and price is    2
+Gift type is   2   and price is    2
+Gift type is   1   and price is    2
+Gift type is   1   and price is    3
+Gift type is   3   and price is    3
+Gift type is   2   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    4
+Gift type is   2   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   2   and price is    5
+Gift type is   1   and price is    5
+Gift type is   2   and price is    6
+Gift type is   3   and price is    6
+Gift type is   1   and price is    6
+Gift type is   2   and price is    6
+Gift type is   1   and price is    7
+The gifts given by    22   are of value     98    gifted to   39
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   1   and price is    1
+Gift type is   2   and price is    2
+Gift type is   3   and price is    2
+Gift type is   1   and price is    2
+Gift type is   2   and price is    2
+Gift type is   1   and price is    2
+Gift type is   1   and price is    3
+Gift type is   3   and price is    3
+Gift type is   2   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    4
+Gift type is   2   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   2   and price is    5
+Gift type is   1   and price is    5
+Gift type is   2   and price is    6
+Gift type is   3   and price is    6
+Gift type is   1   and price is    6
+Gift type is   2   and price is    6
+Gift type is   1   and price is    7
+The gifts given by    26   are of value     67    gifted to   45
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   1   and price is    1
+Gift type is   2   and price is    2
+Gift type is   3   and price is    2
+Gift type is   1   and price is    2
+Gift type is   2   and price is    2
+Gift type is   1   and price is    2
+Gift type is   1   and price is    3
+Gift type is   3   and price is    3
+Gift type is   2   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    4
+Gift type is   2   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   3   and price is    4
+Gift type is   2   and price is    5
+Gift type is   1   and price is    5
+The gifts given by    27   are of value     49    gifted to   51
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   2   and price is    1
+Gift type is   3   and price is    1
+Gift type is   3   and price is    1
+Gift type is   1   and price is    1
+Gift type is   2   and price is    2
+Gift type is   3   and price is    2
+Gift type is   1   and price is    2
+Gift type is   2   and price is    2
+Gift type is   1   and price is    2
+Gift type is   1   and price is    3
+Gift type is   3   and price is    3
+Gift type is   2   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    3
+Gift type is   3   and price is    4
+Gift type is   2   and price is    4
+Gift type is   3   and price is    4
+The gifts given by    28   are of value     80    gifted to   49
+Gift details ( where type 1 = essential, tepe 2 = luxury, type 3 = utility)  
+ 
+Gift type is   3   and price is    20
+Gift type is   1   and price is    20
+Gift type is   3   and price is    20
+Gift type is   1   and price is    20
