@@ -190,28 +190,14 @@ public class Valentine {
    }    
    
   
-   
+   public static void question_1(int n){
+        couples_formed(n);
+   }
     
-    public static void main(String[] args) {
-        int i;
-       System.out.println("creating a fle ");
-       
-       Scanner scanner = new Scanner(System.in);
-       System.out.println("Enetr the no. of girls");
-       int n = scanner.nextInt();
-       
-       Gift.generate_gifts(100);
-       
-       System.out.println("generating boys");
-       generate.generate_boys(n);
-       System.out.println("generating girls");
-       generate.generate_girls(n);
-       
-       couples_formed(n);
+   public static void question_2(int k, int n){
        happy_couples(4, n);
        compatibile_couples(4, n);
        gift_exchanges(n);
-
-    }
-    
+   }
+   
 }
